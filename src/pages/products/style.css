@@ -1,0 +1,36 @@
+.product-info {
+    max-width: 700px;
+    margin: 10px auto 0;
+    background: #FFF;
+    border: 1px solid #DDD;
+    border-radius: 5px;
+    padding: 30px;
+}
+
+.product-info p {
+    margin: 5px 0;
+}
+
+.product-info a {
+    color: blue;
+}
+
+.product-info .actions {
+    margin-top: 10px;
+}
+
+.product-info .actions button {
+    margin-top: 10px;
+    padding: 10px;
+    border-radius: 5px;
+    border: 0;
+    background-color: #da552f;
+    color: #FFF;
+    font-size: 16px;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+.product-info .actions button:hover {
+    opacity: 0.8;
+}
